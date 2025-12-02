@@ -7,8 +7,8 @@ Output 1:
 programming
 
 */
-#include <stdio.h>
-
+#include<stdio.h>
+#include<string.h>
 int main()
 {
     char str[200];
@@ -16,7 +16,7 @@ int main()
     int i = 0, j = 0, maxLen = 0, currLen = 0, start = 0, maxStart = 0;
 
     printf("Enter a sentence: ");
-    gets(str);
+    fgets(str);
 
     while (1)
     {

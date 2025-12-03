@@ -17,3 +17,5 @@ int main() {
            ptr->name, ptr->roll, ptr->marks);
     return 0;
 }
+
+//hvj//

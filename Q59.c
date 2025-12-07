@@ -1,6 +1,8 @@
 /*Q59: Count even and odd numbers in an array.
 
-Sample Test Cases:
+
+
+        Sample Test Cases:
 Input 1:
 6
 1 2 3 4 5 6

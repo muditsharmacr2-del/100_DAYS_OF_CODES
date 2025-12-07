@@ -24,10 +24,7 @@ Input 1:
 Output 1:
 Pattern with stars spaced irregularly as shown.
 
-Subbmition by Pulkit Singh
-Btech CS
-590022181
-Batch - 12
+
 */ \
 #include<stdio.h>
 #include <stdlib.h>

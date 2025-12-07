@@ -15,10 +15,7 @@ Output 1:
 1234
 12345
 
-Subbmition by Pulkit Singh
-Btech CS
-590022181
-Batch - 12
+
 */
 #include <stdio.h>
 
